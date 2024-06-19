@@ -229,20 +229,12 @@ Menu:
 Enter Your Choice:  1
 
 
-How many records do you want to enter?: 2
-
-Enter Roll Number: 65
-
-Enter Name: SIYA
-
-Enter Division: A
-
-Enter Address: NASHIK
+How many records do you want to enter?: 1
 
 
-Enter Roll Number: 50
+Enter Roll Number: 61
 
-Enter Name: KHUSHI
+Enter Name: Devesh
 
 Enter Division: A
 
